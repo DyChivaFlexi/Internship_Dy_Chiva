@@ -70,7 +70,7 @@ body {
                         <li><span class="flaticon-time-1"></span> Office: 8.00 AM - 5.00 PM</li>
                     </ul>
                 </div>
-                <div class="col-md-3 col-sm-9">
+                <!-- <div class="col-md-3 col-sm-9">
                     <div class="top-info-right pull-right">
                         <div class="soc-icon">
                             <a href="#"> <i class="fas fa-house-damage"></i> </a>
@@ -80,7 +80,7 @@ body {
                             <a href="#"> <i class="fas fa-instagram"></i> </a>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>

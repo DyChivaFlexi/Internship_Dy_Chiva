@@ -108,28 +108,22 @@
                 </div><br><br>
                 <div style="background-color:50px;">
                     <table class="table table-striped" >
-                            <thead>
-                            <tr>
-                                <th>Firstname</th>
-                                <th>Lastname</th>
-                                <th>Email</th>
-                            </tr>
-                            </thead>
                             <tbody>
                             <tr>
-                                <td>John</td>
-                                <td>Doe</td>
-                                <td>john@example.com</td>
+                                <td>Product Code</td>
+                                <td>K095473</td>
                             </tr>
                             <tr>
-                                <td>Mary</td>
-                                <td>Moe</td>
-                                <td>mary@example.com</td>
+                                <td>Price</td>
+                                <td>$10 / kg</td>
                             </tr>
                             <tr>
-                                <td>July</td>
-                                <td>Dooley</td>
-                                <td>july@example.com</td>
+                                <td>Location</td>
+                                <td>Phnom Penh</td>
+                            </tr>
+                            <tr>
+                                <td>Source</td>
+                                <td>BB provice</td>
                             </tr>
                             </tbody>
                         </table>
